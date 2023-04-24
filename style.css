@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+  background-color:#f4f4f4;
+
+    }
+.navbar{
+    min-width: 98%;
+    background:#35424a;
+    height: 110px;
+    border:4px solid #ff005e;
+    border-radius: 5px;
+ overflow: hidden;
+}
+.navbar ul{
+     display: inline;
+    }
+.name{
+min-width : 50%;
+text-align: center;
+display:inline;
+float:left;
+      }
+  
+  
+   .name h1{
+     padding: 18px 0px 0px 60px;
+     color:#ff0049;
+     width: auto;
+      }
+
+
+.navbar ul li{
+       display: inline;
+       float:left;
+       margin: 10px;
+       padding:1vh 0vh 0px 60px; 
+       }
+
+   
+ .navbar ul li a {
+          color:#ffffff;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:16px;
+}
+         
+         
+  #show{
+  
+      min-height:350px;
+  background:url('bak.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align:center;
+  color:#ffffff;
+   }
+  #show h1{
+  
+  padding-top: 30px;
+  font-size:50px;
+  margin-bottom:30px;
+}
+  .box{
+      width:80%;
+  margin:auto;
+  overflow:hidden;
+  }
+ .channel{
+     background:#35424a;
+      height: auto;
+    width: 100%;
+      }
+      .channel h2{
+          display: inline-block;
+          font-size:30px;
+      margin: 10px 10px 2px 50px;
+          color:#ffffff;
+      }
+      
+     
+      
+.button1{
+margin: 20px 0px 6px 90px;
+   background-color: #00d5ff;
+   font-size:30px;
+      text-align:center;
+      border:3px solid black;
+      border-radius:9px;
+      color: #ff009d;
+      one-click;
+    }
+.h1{
+    text-align: center ;
+    width: 90%;
+    color: #ff0049;
+     margin: 10px;
+}
+.mods{
+width: 90%;
+    margin:auto;
+    height: auto;
+    overflow: hidden;
+    background:#9ba3badf;
+    border-radius: 8px;
+    margin-top:1vh;
+ 
+    
+}
+.mod1{
+    width: 85%;
+    margin:auto;
+    height: auto;
+    overflow: hidden;  
+    padding: 4px;
+      font-size:15px;
+      
+}
+
+
+.mod1 img{
+  
+    border:5px solid black;
+    border-radius: 9px;
+    height: 290px;
+    background-position:center;
+    margin: 1vh;
+}
